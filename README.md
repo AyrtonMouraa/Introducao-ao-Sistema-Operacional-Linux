@@ -1,9 +1,9 @@
 # Introdução ao Sistema Operacional Linux
- Linhas e Comandos Citados no Curso para Desenvolvimento Pesssoal
+ <Linhas e Comandos Citados no Curso para Desenvolvimento Pesssoal
   
 #Ubuntu 
 
-Primeiros Comandos:
+### Primeiros Comandos:
        
       o terminal pode ser aberto de diversas formas, mas a sequência de teclas CTRL + ALT + T facilita seu acesso.    
 
