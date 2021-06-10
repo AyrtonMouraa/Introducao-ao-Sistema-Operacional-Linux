@@ -1,4 +1,4 @@
 # Introdução ao Sistema Operacional Linux
- Linhas e Comandos Citados no curso para desenvolvimento pesssoal
+ Linhas e Comandos Citados no Curso para Desenvolvimento Pesssoal
 
-Primeiros Comandos 
+Primeiros Comandos:
