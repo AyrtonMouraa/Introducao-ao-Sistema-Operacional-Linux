@@ -5,7 +5,7 @@
 
 Primeiros Comandos:
        
-        o terminal pode ser aberto de diversas formas, mas a sequência de teclas CTRL + ALT + T facilita seu acesso.    
+      o terminal pode ser aberto de diversas formas, mas a sequência de teclas CTRL + ALT + T facilita seu acesso.    
 
                 Para acessar o usuário root: sudo su
                 Para saber a saida do caminho local: pwd
