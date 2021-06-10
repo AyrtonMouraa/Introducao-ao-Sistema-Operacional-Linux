@@ -10,7 +10,7 @@ Primeiros Comandos:
                 Para acessar o usuário root: sudo su
                 Para saber a saida do caminho local: pwd
                 Para listar arquivos: ls
-                Para visualizar alguma arquivo que esteja dentro de uma pasta: ls (nome do pasta)
+                Para visualizar alguma arquivo que esteja dentro de uma pasta: ls (nome da pasta)
                 ex: ls Documentos
                 Para mudar de diretório: cd (nome do diretório)
                 ex: cd Documentos
