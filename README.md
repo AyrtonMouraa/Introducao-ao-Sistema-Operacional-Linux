@@ -30,12 +30,12 @@
                 
 # ***Atalhos*** 
 
-- Cancela o comando atual em funcionamento: Ctrl+C
-- Pausa o comando atual, em primeiro plano ou segundo plano: Ctrl+Z
-- Faz o logout da sessão atual: Ctrl+D
-- Apaga uma palavra na linha atual: Ctrl+W
-- Apaga linha inteira: Ctrl+U
-- Busca um comando recente: Ctrl+R
-- Repete o último comando: !!
-- Faz o logout da sessão atual: Exit
+- *Cancela o comando atual em funcionamento:* **Ctrl+C**
+- *Pausa o comando atual, em primeiro plano ou segundo plano:* **Ctrl+Z**
+- *Faz o logout da sessão atual:* **Ctrl+D**
+- *Apaga uma palavra na linha atual:* **Ctrl+W**
+- *Apaga linha inteira:* **Ctrl+U**
+- *Busca um comando recente:* **Ctrl+R**
+- *Repete o último comando:* **!!**
+- *Faz o logout da sessão atual:* **Exit**
 
