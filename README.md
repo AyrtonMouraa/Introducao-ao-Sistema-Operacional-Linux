@@ -28,6 +28,6 @@
 - *Para exibir o histórico de programas e comandos utilizados no terminlal: history*
 - *Para executar o ultimo comando utilizado no terminal:* **!!**
                 
-
+# ***Atalhos*** 
 
 
