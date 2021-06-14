@@ -7,7 +7,7 @@
        
  **O Terminal Pode ser aberto de diversas formas, mas a sequência de teclas CTRL + ALT + T facilita seu acesso.**    
 
-- *Para retornar rotacionar a sua tela: **xrandr -o normal**
+- *Para retornar rotacionar a sua tela:* **xrandr -o normal**
 - *Para acessar o usuário root:* **sudo su**
 - *Para saber a saida do caminho local:* **pwd**
 - *Para listar arquivos:* **ls**
