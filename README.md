@@ -27,6 +27,33 @@
 - *Para voltar ao diretório pessoal:* **cd ~**
 - *Para exibir o histórico de programas e comandos utilizados no terminlal: history*
 - *Para executar o ultimo comando utilizado no terminal:* **!!**
+- - *Repete o último comando:* **!!**
+- *Faz o logout da sessão atual:* **Exit**
+- *Lista diretórios e arquivos: ls
+- *pção lista longa "com detalhes":* **ls-l**
+- *Lista outro diretório que não o corrente:* **ls dir**
+- *Histórico de comandos:* **history**
+- *Cria diretórios:* **mkdir**
+- *Remove diretórios com a opção -r:* **rm -r**
+- *Muda o diretório atual para outro:* **cd dir**
+  *EX:* **cd /Ayrton**
+- *Muda para o diretório raiz:* **cd /**
+- *Muda para o diretório pessoal(home):* **cd ~**
+- *Retorna ao diretório anterior:* **cd ..**
+- *Exibe o arquivo de ajuda de um comando:* **--help** 
+  *EX:* **ls --help**
+- *Exibe o manual do comando:* **man comando**
+  *EX:* **man ls**
+- *Renomea um diretório ou arquivo:* mv antigo novo
+  *EX: **mv linux teste**
+- *Move um diretório ou arquivo:* **mv dir/ ~**
+- *Cria arquivos vazios no linux: **touch nomearquivo**
+- *Faz uma cópia de um arquivo para outro diretório:* **cp arquivo diretório**
+- *Especifico para remover diretórios:* **rmdir**
+- *Remove um arquivo:* **rm nomearquivo**
+  *EX:* **rm teste.txt**
+- *Limpa o terminal:* **clear**
+- *finaliza sessão do terminal: **exit**
                 
 # ***Atalhos*** 
 
@@ -36,31 +63,4 @@
 - *Apaga uma palavra na linha atual:* **Ctrl+W**
 - *Apaga linha inteira:* **Ctrl+U**
 - *Busca um comando recente:* **Ctrl+R**
-- *Repete o último comando:* **!!**
-- *Faz o logout da sessão atual:* **Exit**
-- *Lista diretórios e arquivos: ls
-- *pção lista longa "com detalhes":* **ls-l**
-- Lista outro diretório que não o corrente: ls dir
-- Histórico de comandos: history
-- Cria diretórios: mkdir
-- Remove diretórios com a opção -r: rm -r
-- Muda o diretório atual para outro: cd dir
-  EX: cd /Ayrton
-- Muda para o diretório raiz: cd /
-- Muda para o diretório pessoal(home): cd ~
-- Retorna ao diretório anterior: cd ..
-- Exibe o arquivo de ajuda de um comando: --help 
-  EX: ls --help
-- Exibe o manual do comando: man comando
-  EX: man ls
-- Renomea um diretório ou arquivo
-  EX: mv linux teste
-- Move um diretório ou arquivo: mv dir/ ~
-- Cria arquivos vazios no linux: touch nomearquivo
-- Faz uma cópia de um arquivo para outro diretório: cp arquivo diretório
-- Especifico para remover diretórios: rmdir
-- Rmove um arquivo: rm nomearquivo
-  EX: rm teste.txt
-- Limpa o terminal: clear
-- finaliza sessão do terminal: exit
 
