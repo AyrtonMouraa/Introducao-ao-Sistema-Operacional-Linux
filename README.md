@@ -53,7 +53,7 @@
 - *Remove um arquivo:* **rm nomearquivo**
   *EX:* **rm teste.txt**
 - *Limpa o terminal:* **clear**
-- *finaliza sessão do terminal: **exit**
+- *finaliza sessão do terminal:* **exit**
                 
 # ***Atalhos*** 
 
