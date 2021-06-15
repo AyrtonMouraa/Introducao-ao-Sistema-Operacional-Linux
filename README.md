@@ -38,4 +38,26 @@
 - *Busca um comando recente:* **Ctrl+R**
 - *Repete o último comando:* **!!**
 - *Faz o logout da sessão atual:* **Exit**
+- *Lista diretórios e arquivos: ls
+- Opção lista longa "com detalhes": ls -l
+- Lista outro diretório que não o corrente: ls dir
+- Histórico de comandos: history
+- Cria diretórios: mkdir
+- Remove diretórios com a opção -r: rm -r
+- Muda o diretório atual para outro: cd dir
+- Muda para o diretório raiz: cd /
+- Muda para o diretório pessoal(home): cd ~
+- Retorna ao diretório anterior: cd ..
+- Exibe o arquivo de ajuda de um comando: --help  
+- Exibe o manual do comando: man comando
+  EX: man 
+- Renomea um diretório ou arquivo
+  EX: mv linux teste
+- Move um diretório ou arquivo: mv dir/ ~
+- Cria arquivos vazios no linux: touch nomearquivo
+- Faz uma cópia de um arquivo para outro diretório: cp arquivo diretório
+- Especifico para remover diretórios: rmdir
+- Rmove um arquivo: rm nomearquivo
+- Limpa o terminal: clear
+- finaliza sessão do terminal: exit
 
