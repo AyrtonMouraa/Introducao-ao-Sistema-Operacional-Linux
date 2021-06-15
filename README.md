@@ -27,7 +27,7 @@
 - *Para voltar ao diretório pessoal:* **cd ~**
 - *Para exibir o histórico de programas e comandos utilizados no terminlal: history*
 - *Para executar o ultimo comando utilizado no terminal:* **!!**
-- - *Repete o último comando:* **!!**
+- *Repete o último comando:* **!!**
 - *Faz o logout da sessão atual:* **Exit**
 - *Lista diretórios e arquivos: ls
 - *pção lista longa "com detalhes":* **ls-l**
