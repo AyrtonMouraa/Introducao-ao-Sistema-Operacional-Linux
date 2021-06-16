@@ -54,6 +54,9 @@
   *EX:* **rm teste.txt**
 - *Limpa o terminal:* **clear**
 - *finaliza sessão do terminal:* **exit**
+
+# ***Comandos para Manipulação de Arquivos e Textos e Redirecionamento:***
+
 - *Exibe Contéudos de arquivos no terminal:* **cat**
 - *Exibe a ordem inversa dos contéudos no terminal:* **tac**
 - *Editor de textos linux:* **nano**
