@@ -3,7 +3,7 @@
   
 # ***Ubuntu*** 
 
-***Primeiros Comandos:***
+***Primeiros Comandos***
        
  **O Terminal Pode ser aberto de diversas formas, mas a sequência de teclas CTRL + ALT + T facilita seu acesso.**    
 
@@ -55,7 +55,7 @@
 - *Limpa o terminal:* **clear**
 - *finaliza sessão do terminal:* **exit**
 
-# ***Comandos para Manipulação de Arquivos e Textos e Redirecionamento:***
+# ***Comandos para Manipulação de Arquivos e Textos e Redirecionamento***
 
 - *Exibe Contéudos de arquivos no terminal:* **cat**
 - *Exibe a ordem inversa dos contéudos no terminal:* **tac**
@@ -88,6 +88,6 @@
 - *Apaga linha inteira:* **Ctrl+U**
 - *Busca um comando recente:* **Ctrl+R**
 
-# ***Site:***
+# ***Site***
 - *Guia foca:* https://www.guiafoca.org/guiaonline/
 
