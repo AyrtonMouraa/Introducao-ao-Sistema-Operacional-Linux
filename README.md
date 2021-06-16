@@ -54,6 +54,27 @@
   *EX:* **rm teste.txt**
 - *Limpa o terminal:* **clear**
 - *finaliza sessão do terminal:* **exit**
+- *Exibe Contéudos de arquivos no terminal:* **cat**
+- *Exibe a ordem inversa dos contéudos no terminal:* **tac**
+- *Editor de textos linux:* **nano**
+- *Cria arquivos vazios:* **touch**
+- *Busca arquivos:* **find**
+- *Exibe o tipo de um arquivo:* **file**
+- *Exibe as 10 primeiras linhas de um arquivo:* **head**
+- *Exibe as 10 ultimas linhas de arquivo:* **tail**
+- *Exibe a paginação em um arquivo de texto:* **more**
+- *Exibe a paginação em um arquivo de texto:* **less**
+- *Busca palavras em arquivos texto:* **grep**
+- *Exibe calendário:* **cal**
+- *Exibe a data atual:* **date**
+- *Exibe uma explicação sobre um comando:* **whatis**
+- *Envia a saída de um comando para entrada de outro comando permitindo a execução de dois comandos:* **|**
+- *Redireciona a saída de um comando para outra comando ou arquivo:* **>**
+- *Redireciona a saída e adiciona a mesma para um comando ou arquivo:* **>>**
+- *Direciona a entrada de um arquivo para a saída de um comando:* **<**
+- *Este operador permite usar dois comandos e separar suas saídas no terminal:* **&**
+- *Usado para que dois comandos só sejam executado se o primeiro for executado com sucesso:* **&&**
+- *Para remover todos os arquivos dentro de uma pasta:* **rm -r** 
                 
 # ***Atalhos*** 
 
@@ -63,4 +84,7 @@
 - *Apaga uma palavra na linha atual:* **Ctrl+W**
 - *Apaga linha inteira:* **Ctrl+U**
 - *Busca um comando recente:* **Ctrl+R**
+
+# ***Site:***
+- *Guia foca:* https://www.guiafoca.org/guiaonline/
 
