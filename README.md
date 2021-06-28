@@ -79,6 +79,9 @@
 - *Usado para que dois comandos só sejam executado se o primeiro for executado com sucesso:* **&&**
 - *Para remover todos os arquivos dentro de uma pasta:* **rm -r** 
                 
+# ***Comando de Diretórios do Linux e Comandos de Sistema***
+
+
 # ***Atalhos*** 
 
 - *Cancela o comando atual em funcionamento:* **Ctrl+C**
