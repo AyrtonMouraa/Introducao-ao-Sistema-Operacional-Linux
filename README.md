@@ -94,7 +94,7 @@
 - *Diretório para dados de serviços fornecidos pelo sistema:* **/srv/**
 - *Diretório para arquivos temporários:* **/tmp/**
 - *Segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programas:* **/usr/**
-- *Diretório com arquivos variáveis gerados pelos 
+- *Diretório com arquivos variáveis gerados pelos programas do sistema. exemplo: log
 
 
 # ***Atalhos*** 
