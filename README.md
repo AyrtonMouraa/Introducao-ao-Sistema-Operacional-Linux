@@ -81,6 +81,21 @@
                 
 # ***Comando de Diretórios do Linux e Comandos de Sistema***
 
+- *Binários principais dos usuários:* **/bin/**
+- *Arquivos do sistema de boot:* **/boot/**
+- *Arquivos de dispositivos:* **/dev/
+- *Arquivos de configuração do sistema:* **/etc**
+- *Diretório dos usuários comuns do sistema:* **/home/**
+- *Blibliotecas essenciais do sistema e os módulos do kernel:* **/lib/**
+- *Diretório de montagem e dispositivos:* **/media/**
+- *Diretório de montagem de dispositivos - mesmo que "media":* **/mnt/**
+- *Instalação de programas não oficiais da distribuição ou por conta do usuário:* **/opt/**
+- *Armazena arquivos executáveis que representam comandos administrativos. exemplo: Shutdown:* **/sbin/**
+- *Diretório para dados de serviços fornecidos pelo sistema:* **/srv/**
+- *Diretório para arquivos temporários:* **/tmp/**
+- *Segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programas:* **/usr/**
+- *Diretório com arquivos variáveis gerados pelos 
+
 
 # ***Atalhos*** 
 
