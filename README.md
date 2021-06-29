@@ -94,7 +94,10 @@
 - *Diretório para dados de serviços fornecidos pelo sistema:* **/srv/**
 - *Diretório para arquivos temporários:* **/tmp/**
 - *Segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programas:* **/usr/**
-- *Diretório com arquivos variáveis gerados pelos programas do sistema. exemplo: log
+- *Diretório com arquivos variáveis gerados pelos programas do sistema. exemplo: logs, historico da impressora, e-mail e cache.:* **/
+- *Diretório do usuário root - o usuário root tem o total poder sobre o sistema. podendo instalar, desinstalar e configurar.:* **/root/
+- *Diretório virtual controlado pelo kernel:* **/proc/
+- 
 
 
 # ***Atalhos*** 
