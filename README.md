@@ -96,7 +96,22 @@
 - *Segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programas:* **/usr/**
 - *Diretório com arquivos variáveis gerados pelos programas do sistema. exemplo: logs, historico da impressora, e-mail e cache.:* **/
 - *Diretório do usuário root - o usuário root tem o total poder sobre o sistema. podendo instalar, desinstalar e configurar.:* **/root/
-- *Diretório virtual controlado pelo kernel:* **/proc/
+- *Diretório virtual controlado pelo kernel:* **/proc/**
+- *Arquivo de informação do processador:* **cat/proc/cpuinfo**
+- *Exibe informações do processador:* **lscpu**
+- *Arquivo de informações da memória:* **cat/proc/meminfo**
+- *Exibe informações da memória física o virtual:* **free**
+- *Exibe informações detalhadas sobre hardware:* **lshw**
+- *Exibe informações sobre hardware:* **lshw -short**
+- *Exibe o nome do kernel do sistema:* **uname**
+- *Exibe a versão do kernel:* **uname -r**
+- *Exibe a arquitetura do kernel:* **arch**
+- *Exibe todas as placas PCI conectadas:* **lspci**
+- *Exibe todos os dispositivos usb conectados:* **lsusb**
+- *Exibe o espaço que cada arquivo e pasta no diretório pessoal consome no hd:* **du -h ~
+- *Renicia o sistema:* **reboot**
+- *Renicia o sistema:* **shutdown -r**
+- *Desliga o sistema rapidamente:* **shutdown -h now**
 - 
 
 
