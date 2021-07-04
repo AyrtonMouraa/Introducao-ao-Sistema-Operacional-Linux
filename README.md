@@ -112,8 +112,21 @@
 - *Renicia o sistema:* **reboot**
 - *Renicia o sistema:* **shutdown -r**
 - *Desliga o sistema rapidamente:* **shutdown -h now**
-- 
+ 
+# ***Fudamentos de redes e comandos de rede***
 
+- *Exibe informações sobre interface de rede e IP:* **ifconfig**
+- *Exibe informações sobre o host:* **hostname**
+- *Exibe o número de endereços loopback do host:* **hostname -i**
+- *Exibe endereço de IP na rede:* **hostname -l**
+- *Exibe informações sobre o DNS de um host:* **dig host**
+- *Exibe o numero de IP de um host:* **dig host +short** 
+- *Exibe informações detalhadas sobre o usuário do computador na rede:* **w**
+- *Exibe informações curtas sobre o usuário do computador na rede:* **who**
+- *Exibe o numero de usuários do computador na rede:* **whoami**
+- *Exibe informações sobre a rota da sua rede até o host desejado:* **traceroute host**
+- *Testa um host:* **ping host**
+- *Exibe informações sobre o usuário do computador na rede:* **finger**
 
 # ***Atalhos*** 
 
