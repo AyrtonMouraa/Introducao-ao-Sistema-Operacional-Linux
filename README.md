@@ -128,6 +128,9 @@
 - *Testa um host:* **ping host**
 - *Exibe informações sobre o usuário do computador na rede:* **finger**
 
+# ***C***
+
+**OBS:** *As Letras com cor azul é diretório e com as letras são arquivos*
 # ***Atalhos*** 
 
 - *Cancela o comando atual em funcionamento:* **Ctrl+C**
