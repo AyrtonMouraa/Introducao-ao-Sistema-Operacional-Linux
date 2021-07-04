@@ -150,8 +150,8 @@
  - *Exibe o caminho do programa e seu manual:* **whereis**
  - *Exibe o caminho de um programa:* **which**
  - *Finaliza sessão:* **logout**
+ - **OBS:** *As Letras com cor azul é diretório e com as letras são arquivos*
 
-- **OBS:** *As Letras com cor azul é diretório e com as letras são arquivos*
 # ***Atalhos*** 
 
 - *Cancela o comando atual em funcionamento:* **Ctrl+C**
