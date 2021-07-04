@@ -128,7 +128,28 @@
 - *Testa um host:* **ping host**
 - *Exibe informações sobre o usuário do computador na rede:* **finger**
 
-# ***C***
+# ***Comandos diversos do linux***
+ 
+ - *Exibe arquivos e diretórios ocultos:* **ls-a**
+ - *Exibe os diretórios com / no fim:* **ls-f**
+ - *Exibe um arquivo com seus números de linhas:* **nl** 
+ - *Conta o número de linhas de um arquivo incluindo as em branco e exibe no terminal:* **wc -l**
+ - *Conta o número de palavras de um arquivo e exibe no terminal: **wc -c**
+ - *Organiza um arquivo em ordem alfabética ou númerica:* **sort**
+ - *Exibe o tempo do processamento de um comando para o sistema, para o usuário e real:* **time**
+ - *Exibe informações de carregamento do sistema:* **uptime**
+ - *Compara dois arquivos:* **cmp**
+ - *Imprime uma sequência de números com inicio e fim:* **seq**
+ - *Exibe a tabela de roteamento IP do kernel:* **route -n**
+ - *Permite trocar o nome de um comado:* **alias**
+ - *Exibe informações sobre reinicializações do sistema:* **fast reboot**
+ - *Limpa o histórico de comandos:* **history -c**
+ - *Desliga o sistema:* **init 0**
+ - *Desliga o sistema:* **telinit 0**
+ - *Desliga o sistema:* **halt**
+ - *Exibe o caminho do programa e seu manual:* **whereis**
+ - *Exibe o caminho de um programa:* **which**
+ - *Finaliza sessão:* **logout**
 
 **OBS:** *As Letras com cor azul é diretório e com as letras são arquivos*
 # ***Atalhos*** 
