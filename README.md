@@ -152,6 +152,26 @@
  - *Finaliza sessão:* **logout**
  - **OBS:** *As Letras com cor azul é diretório e com as letras são arquivos*
 
+# ***Controle de usuários, grupos e permissões***
+
+- *Adiciona um usuário:* **adduser***
+- *Troca para o usuário root:* **sudo su**
+- *Troca para outro usuário:* **su usuario**
+- *Troca senha do usuário:* **passwd**
+- *Exibe informações de login dos usuários:* **lastlog**
+- *Exibe uma listagem de entrada e saída do usuário no sistema:* **last**
+- *Exibe o nome do usuário atual logado no sistema:* **logname**
+- *Exibe todos os identificados do usuário:* **id**
+- *Exibe todos os usuários:* **cat /etc/passwd:**
+- *Remove o usuário e sua pasta pessoal:* **userdel -r nomedousuario:**
+- *Exibe todos os grupos do sistema:* **cat /etc/group**
+- *Adiciona um usuário a um grupo:* **adduser usuario grupo**
+- *Adiciona um usuário a um grupo:* **gpasswd -a usuario**
+- *Remove um usuário de um grupo:* **gpasswd -d usuario grupo**
+- *Remove um grupo:* **groupdel grupo**
+- *Exibe detalhes na listagem de um diretório como permissões:* **ls -lh**
+- *Permite a modificação de permissões:* **chmod**
+
 # ***Atalhos*** 
 
 - *Cancela o comando atual em funcionamento:* **Ctrl+C**
