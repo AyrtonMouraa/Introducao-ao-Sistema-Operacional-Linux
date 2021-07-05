@@ -113,7 +113,7 @@
 - *Renicia o sistema:* **shutdown -r**
 - *Desliga o sistema rapidamente:* **shutdown -h now**
  
-# ***Fudamentos de redes e comandos de rede***
+# ***Fudamentos de Redes e Comandos de Rede***
 
 - *Exibe informações sobre interface de rede e IP:* **ifconfig**
 - *Exibe informações sobre o host:* **hostname**
@@ -128,7 +128,7 @@
 - *Testa um host:* **ping host**
 - *Exibe informações sobre o usuário do computador na rede:* **finger**
 
-# ***Comandos diversos do linux***
+# ***Comandos Diversos do Linux***
  
  - *Exibe arquivos e diretórios ocultos:* **ls-a**
  - *Exibe os diretórios com / no fim:* **ls-f**
@@ -150,9 +150,19 @@
  - *Exibe o caminho do programa e seu manual:* **whereis**
  - *Exibe o caminho de um programa:* **which**
  - *Finaliza sessão:* **logout**
+ - *Comando para animação da vaquinha:* **cowsay "linux é bom"**
+ - *Comando para animação da vaquinha:* **cowsay -d**
+ - *Comando para animação da vaquinha:* **cowsay -g**
+ - *Comando para animação da vaquinha:* **cowsay -f**
+ - *Comando para animação do pinguim:* **cowsay -f tux**
+ - *Comando para animação do pinguim:* **cowsay -f vader**
+ - *Comando para animação do pinguim:* **cowsay -f vader-koala**
+ - *Comando para animação do pinguim:* **cowsay -f dragon**
+ - *Comando para animação "3D":* **xcowsay "linux"**
+ - *Comando para animação do matrix:* **cmatrix**
  - **OBS:** *As Letras com cor azul é diretório e com as letras são arquivos*
 
-# ***Controle de usuários, grupos e permissões***
+# ***Controle de Usuários, Grupos e Permissões***
 
 - *Adiciona um usuário:* **adduser***
 - *Troca para o usuário root:* **sudo su**
