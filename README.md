@@ -182,6 +182,18 @@
 - *Exibe detalhes na listagem de um diretório como permissões:* **ls -lh**
 - *Permite a modificação de permissões:* **chmod**
 
+# ***Compactação, Descompactalção e Arquivamento***
+
+- *Cria um arquivo compactado do tipo gz:* **gzip**
+- *Descompacta um arquivo do tipo gz:* **gunzip**
+- *Cria um arquivo compactado do tipo zip:* **unzip**
+- *Cria um arquivo compactado do tipo rar:* **rar**
+- *Descompactada um arquivo do tipo rar:* **rar -x**
+- *Cria um arquivo compactado do tipo bz2:* **bzip2**
+- *Descompacta um arquivo do tipo bz2:* **bzip2 -d**
+- *Arquiva um ou mais arquivos:* **tar**
+- *Descompacta um arquivo compactado e arquivado:* **tar -xvf** 
+
 # ***Atalhos*** 
 
 - *Cancela o comando atual em funcionamento:* **Ctrl+C**
