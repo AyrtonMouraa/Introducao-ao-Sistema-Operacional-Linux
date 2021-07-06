@@ -210,3 +210,4 @@
 - *JSLinux:* https://bellard.org/jslinux/
 - *PKGS Search:* https://pkgs.org/
 - *Rpm search:* https://rpm.org/
+- *Fedora:* getfedora.org/pt_BR/
