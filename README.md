@@ -196,6 +196,25 @@
 - *Apagar um arquivo compactado com o nome repetido:* ** rm -r nomedoarquivo* **
 - *Apagar um arquivo compactado que tenha zip:* **rm -r *zip** *OBS:PODE FAZER ISSO PARA TODOS*
 
+# ***Gerenciamento de Pacotes***
+
+- *Gerenciador de pacotes:* **apt**
+- *Instala pacontes:* **apt install**
+- *Atualiza pacotes:* **apt upgrade**
+- *Atualiza o sistema:* **apt update && apt apgrade:**
+- *Gerenciador de pacotes deb:* **dpkg**
+- *Instala um pacote deb:* **dpkg -i**
+- *Remove um pacote deb:* **dpkg -r**
+- *Inoformações do pacote deb:* **dpkg -l**
+- *Gerenciador de pacotes rpm:* **rpm**
+- *Instala um pacote rpm:* **rpm -ivh**
+- *Atualiza um pacote rpm:* **rmp -U**
+- *Remove um pacote rpm:* **rpm -e**
+- *Gerenciador de pacotes rpm:* **yum**
+- *Instala um pacote rpm:* **yum install**
+- *Atualiza um pacote rpm:* **yum update**
+- *Remove um pacote rpm:* **yum remove**
+
 # ***Atalhos*** 
 
 - *Cancela o comando atual em funcionamento:* **Ctrl+C**
