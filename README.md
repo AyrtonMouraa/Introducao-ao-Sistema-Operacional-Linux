@@ -208,4 +208,5 @@
 # ***Site***
 - *Guia foca:* https://www.guiafoca.org/guiaonline/
 - *JSLinux:* https://bellard.org/jslinux/
-
+- *PKGS Search:* https://pkgs.org/
+- *Rpm search:* https://rpm.org/
