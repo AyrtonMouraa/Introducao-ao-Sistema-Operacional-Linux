@@ -194,6 +194,7 @@
 - *Arquiva um ou mais arquivos:* **tar**
 - *Descompacta um arquivo compactado e arquivado:* **tar -xvf** 
 - *Apagar um arquivo compactado com o nome repetido:* ** rm -r nomedoarquivo* **
+- *Apagar um arquivo compactado que tenha zip:* **rm -r *zip** *OBS:PODE FAZER ISSO PARA TODOS*
 
 # ***Atalhos*** 
 
