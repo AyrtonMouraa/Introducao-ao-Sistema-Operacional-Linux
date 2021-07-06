@@ -193,6 +193,7 @@
 - *Descompacta um arquivo do tipo bz2:* **bzip2 -d**
 - *Arquiva um ou mais arquivos:* **tar**
 - *Descompacta um arquivo compactado e arquivado:* **tar -xvf** 
+- *Apagar um arquivo compactado com o nome repetido:* ** rm -r nomedoarquivo* **
 
 # ***Atalhos*** 
 
