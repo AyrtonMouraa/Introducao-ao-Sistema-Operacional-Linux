@@ -224,7 +224,7 @@
 - *Apaga linha inteira:* **Ctrl+U**
 - *Busca um comando recente:* **Ctrl+R**
 
-# ***Site***
+# ***Sites***
 - *Guia foca:* https://www.guiafoca.org/guiaonline/
 - *JSLinux:* https://bellard.org/jslinux/
 - *PKGS Search:* https://pkgs.org/
