@@ -1,5 +1,5 @@
 # Introdução ao Sistema Operacional Linux
-***Linhas de Comandos Citados no Curso da DIO para Desenvolvimento e aprendizado.***
+***Linhas de Comandos Citados no Curso da DIO para Desenvolvimento e Aprendizado.***
   
 # ***Ubuntu*** 
 
